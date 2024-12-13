@@ -32,7 +32,7 @@ O sistema permite:
 1. **Clone o repositório**:
 
     ```bash
-    git clone https://github.com/itswall/TasksApi.git
+    git clone https://github.com/PauloSouza3/TasksApi.git
     ```
 
 2. **Navegue até a pasta do projeto**:
