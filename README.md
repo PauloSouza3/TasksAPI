@@ -69,3 +69,33 @@ git merge feature/nome-da-feature
 
 
 #Ferramentas e Bibliotecas
+
+Frameworks e Bibliotecas
+Express (framework para API RESTful)
+Sequelize (ORM para MySQL)
+dotenv (gerenciamento de variáveis de ambiente)
+bcrypt (criptografia de senhas)
+jsonwebtoken (autenticação JWT)
+Banco de Dados
+MySQL
+IDE
+Visual Studio Code
+
+
+npm install express mysql2 sequelize dotenv bcrypt jsonwebtoken
+
+net start mysql
+
+CREATE DATABASE tasksapi;
+
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=sua_senha
+DB_NAME=tasksapi
+
+cd TasksApi
+
+npm run dev
+
+http://localhost:3000
+
